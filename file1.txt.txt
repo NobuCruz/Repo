@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fire, Earth and Aang!
+=======
+Air, Earth and Zuko!
+>>>>>>> 384eea1 (Commit from Repo B)
